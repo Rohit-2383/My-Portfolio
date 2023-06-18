@@ -4,7 +4,6 @@ import {motion} from 'framer-motion';
 import {images} from '../../constants';
 import './About.scss';
 import { AppWrapper } from '../../wrapper';
-
 const abouts = [
   {role:'web Development',desc:'I am a good web developer',imgURL:images.about01},
   {role:'Frontend Development',desc:'I am good at frontend',imgURL:images.about02},
